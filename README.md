@@ -13,4 +13,3 @@ Files used
 * washington.csv
 
 ### Credits
-This project was inspired by >> https://www.udacity.com/
